@@ -1,4 +1,4 @@
-Movie Recommender System using IBCF
+Movie Recommender System using Item-Based Collaborative Filtering
 
 The RecSystemEDA folder contains an initial analysis of the datasets and the code for creating the Collaborative Filtering model.
 
